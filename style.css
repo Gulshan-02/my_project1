@@ -1,0 +1,22 @@
+body{
+	background-color: #E0FFFF;
+}
+
+body{
+	color: blue;
+}
+
+img:hover{
+	border: 10px solid #ADFF2F;
+}
+
+html:hover{
+	border: 10px solid #ADFF2F;
+}
+p:hover{
+	border: 10px solid green;
+}
+
+#moya_ssilka{
+	color: green;
+}
